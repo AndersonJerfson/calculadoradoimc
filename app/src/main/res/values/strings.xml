@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="message_clacificação">Sua clacificação é: %1$s! </string>
+
+</resources>

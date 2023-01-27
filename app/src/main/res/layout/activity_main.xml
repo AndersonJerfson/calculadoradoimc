@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:hint="Digite seu peso sem os gramas ex: 75"
         android:inputType="numberDecimal"
-        android:maxLength="6"
+        android:maxLength="2"
 />
 
     <Button
